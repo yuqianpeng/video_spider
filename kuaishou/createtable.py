@@ -1,6 +1,5 @@
 """
 连接数据库，并创建表
-连接mysql，并且建表
 """
 import pymysql
 
